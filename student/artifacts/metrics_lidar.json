@@ -1,0 +1,27 @@
+{
+  "detection": {
+    "tp": 821,
+    "fp": 4,
+    "fn": 605,
+    "precision": 0.9951515151515151,
+    "recall": 0.5757363253856943
+  },
+  "tracking": {
+    "lidar": {
+      "rmse": 0.21534260752765794,
+      "matches": 746,
+      "sum_sq_err": 34.59383920814095,
+      "ghost_track_frames": 3,
+      "missed_gt_frames": 680,
+      "mean_confirmed_tracks": 3.763819095477387
+    },
+    "fused": null
+  },
+  "fusion_mode": "lidar",
+  "frames": [
+    0,
+    198
+  ],
+  "seed": 0,
+  "segment": "training_segment-10963653239323173269_1924_000_1944_000_with_camera_labels.tfrecord"
+}
