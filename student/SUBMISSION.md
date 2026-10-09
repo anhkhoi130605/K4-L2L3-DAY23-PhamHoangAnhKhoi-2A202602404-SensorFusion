@@ -4,7 +4,7 @@
 
 ## Thông tin học viên
 
-- Họ tên: Pham Hoang Anh Khoi
+- Họ tên: Phạm Hoàng Anh Khôi
 - MSSV: 2A202602404
 - Email: 
 - Link repo (fork): https://github.com/anhkhoi130605/K4-L2L3-DAY23-PhamHoangAnhKhoi-2A202602404-SensorFusion
